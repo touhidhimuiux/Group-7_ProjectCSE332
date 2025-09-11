@@ -59,3 +59,10 @@ The project follows these steps:
 ---
 
 ## 📂 Repository Structure
+📦 CSE332-Project
+┣ 📁 assembler # Assembler code (C++/Python/Java)
+┣ 📁 os_program # Operating System in MIPS Assembly
+┣ 📁 cpu_verilog # Verilog source files for CPU design
+┣ 📁 benchmarks # Test programs in assembly
+┣ 📁 docs # Report, diagrams, screenshots
+┣ README.md # Project documentation
