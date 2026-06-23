@@ -1,5 +1,7 @@
 # 🖥️ CSE 332 Project – MIPS CPU & OS Design
 
+![CSE 332 MIPs](cse_332_mips.png)
+
 This repository contains our **Computer Organization & Architecture (CSE 332)** group project at **North South University (NSU)**.  
 The project is divided into **three major phases**: **ISA & Assembler**, **Operating System in Assembly**, and **CPU Design in Verilog**.
 
